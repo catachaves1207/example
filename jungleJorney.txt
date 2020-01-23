@@ -7,3 +7,4 @@ List of elements we need:
 2. A sword
 3. A gun
 4. A lot of food
+5. a backbag
