@@ -6,3 +6,4 @@ List of elements we need:
 1. A tent
 2. A sword
 3. A gun
+4. A lot of food
